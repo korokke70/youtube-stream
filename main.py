@@ -1,6 +1,7 @@
 import time
+import streamlit as st
 
-st.title("streamlit入門")
+st.title('streamlit入門')
 st.write('プレグレスバーの表示')
 'start!!'
 
